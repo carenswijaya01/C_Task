@@ -1,0 +1,30 @@
+Ketentuan TR :
+
+Untuk ketentuan Menu, adalah sebagai berikut :
+I. Menu 1 (Pola Gambar):
+   - Tinggi dan komponen gambar dengan memakai inputan.
+   - Gunakan perulangan bersarang.
+
+II.Menu 2 (Warung Mak Pinah):
+   - ada 3 kode makanan:
+     A atau a : nasi ayam dgn harga 5000
+     B atau b : nasi ikan dgn harga 6000
+     C atau c : nasi telur dgn harga 4000
+   - kalau input kode lain akan langsung masuk ke perhitungan
+     total harga,
+   - untuk pembelian dibawah 100.000 dapat diskon 5%
+   - untuk diatas 100.000 dapat diskon 10%
+   - jika jumlah uang yang diinput kurang dari total harga
+     akan muncul peringatan uang anda kurang ! 
+   - setelah itu muncul jendela baru berisi struk belanja yang
+     menampilkan total harga semua makanan yang dibeli.
+
+III.Menu 3 (Tebak Angka):
+   - Saat memasukkan angka, maka secara acak program akan memilih
+     angka secara random dan kita akan menebak angka sampai benar.
+
+IV. Menu 4 (Author):
+   - Berisi animasi Nama dan NIM pembuat TR (Maksimal 2 orang).
+
+V. Menu 5 (Exit):
+   - Keluar dari pogram.

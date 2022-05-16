@@ -1,0 +1,8 @@
+KETENTUAN
+
+>>apabila kode diisi nol tetap dilanjutkan pengisian formnya, tp isinya kosong.
+>>menu author(2) berisi nama pekerja TR.>>menggunakan semua materi yang sudah dikasih.>>mengulangi menu sampai pilihan=3.>>jika pilihan=3, maka keluar dari program.
+>>untuk username&password harus "fti", jika tidak maka akan terhapus secara otomatis.>>menggunakan kode ascii juga untuk loading&pewarna di sekitar tulisan menu.
+
+
+SEMANGAT !! ^_^ , bawa laptop sendiri waktu responsi yahh !! GBU

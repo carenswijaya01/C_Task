@@ -1,0 +1,11 @@
+BINGO
+
+Ketentuan:
+- Untuk animasi depan (login), untuk username=fti dan password=fti, jika salah maka akan reset ulang.
+- Ada 9 nomor yang berbeda
+- Setiap nomor terdapat soal yang berbeda-beda
+- Setiap soal yang dijawab benar maka nomor dari soal akan berubah menjadi warna hijau
+- Setiap soal yang dijawab salah maka nomor dari soal akan berubah menjadi warna merah
+- Tiap soal yang telah digunakan tidak dapat diulang lagi
+- Ketika jawaban yang benar membentuk sebuah garis horisontal/vertikal/diagonal, maka menang dan berakhir dengan sebuah animasi
+- Ketika semua soal yang dijawab salah semua, maka kalah dan tidak ada animasi yang ditampilkan

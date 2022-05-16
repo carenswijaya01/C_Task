@@ -1,0 +1,14 @@
+Ketentuan:
+- Gunakan login dengan username = fti dan password = fti (kalo salah nda mau login)
+- Terdapat 6 buah menu
+- menu 1 : mencetak persegi bintang
+- menu 2 : mencetak segitiga bintang
+- menu 3 : mencetak jajargenjang bintang
+- menu 4 : menghitung diferensial dengan menginputkan a,b dan c
+- menu 5 : menghitung integral dengan menginputkan pangkat, a,b dan c
+- menu 6 : exit dan menampilkan author (nama dan nim)
+- Untuk menu 4 dan menu 5, gunakan rumus matematika yang sesungguhnya untuk memperoleh hasil
+
+
+
+SEMANGAT !! ^_^ , bawa laptop sendiri waktu responsi yahh !! GBU

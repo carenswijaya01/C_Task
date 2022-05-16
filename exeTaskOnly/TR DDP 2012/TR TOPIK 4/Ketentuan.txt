@@ -1,0 +1,11 @@
+Ketentuan:
+- Gunakan up and down button di keyboard untuk mengganti menu
+- Press "Enter" pada keyboard untuk memilih menu 
+- Terdapat 3 buah menu
+- menu 1 : menkonversi desimal ke biner
+- menu 2 : mengkonversi biner ke desimal
+- menu 3 : keluar (tambah kan keterangan author -nim dan nama- sebelum program tertutup / keluar)
+
+
+
+SEMANGAT !! ^_^ , bawa laptop sendiri waktu responsi yahh !! GBU

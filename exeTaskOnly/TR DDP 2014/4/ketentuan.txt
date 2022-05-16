@@ -1,0 +1,8 @@
+Ketentuan TR:
+1. Kelompok max. 2 org
+2. TIDAK BOLEH menggunakan variabel global, label dan goto label SAMA SEKALI
+3. HARUS ADA loading dan login ketika masuk (username/password terserah)
+4. ikut Setiap langkah yang ada pada .exe
+5. Kreasikan semenarik mungkin tampilannya 
+
+^_^

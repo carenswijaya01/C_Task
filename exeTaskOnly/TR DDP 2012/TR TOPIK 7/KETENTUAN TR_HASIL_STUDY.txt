@@ -1,0 +1,30 @@
+KETENTUAN
+
+Login:
+1.username dan password = fti kalu tidak tidak mau loggin
+2.setelah loggin harus ada isi nim,nama,semester
+
+UPDATE
+1.menu update akan menampilkan menu seperti contoh
+2.menampilkan data yang akan di update dan mengupdatenya
+
+INPUT
+1.matakuliah yang dapat diinput maks.5
+2.sks dan nilai yang diinputkan berupa angka
+
+DELETE
+1.delete menu akan menghapus semua data yang sudah diinputkan
+
+Lihat Hasil Study
+1.akan menampilkan data seperti contoh.
+2.hanya menampilkan data sesuai dengan jumlah inputannya
+3.semester yang digunakan adalah ganjil genap dan antara(ex: 1(ganjil),2(genap),3(antara)
+4.nilai yang ditampilkan berupa huruf bukan angka
+
+AUTHOR
+1. buat NIM dan NAMA dengan animasi sekreatif kalian
+
+6.EXIT
+1.boleh langsung keluar atau mau ditampilkan "SAY GOOD BYE"
+
+SEMANGAT !! ^_^ , bawa laptop sendiri waktu responsi yahh !! GBU
